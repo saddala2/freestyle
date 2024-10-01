@@ -1,1 +1,4 @@
-DATABASE_URL= postgres://your-username:your-password@your-host:your-port/your-database
+### DATABASE_URL= postgres://your-username:your-password@your-host:your-port/your-database
+
+
+DATABASE_URL= postgres://task:Admin1234Admin@database-1.czuq2eo8ur4v.us-east-1.rds.amazonaws.com:5432/task
